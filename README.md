@@ -4,12 +4,11 @@
 
 Codealong:
 
-1. We will create an association model where users have many tweets
+1. We will create an association app where users have many tweets
 2. Perform CRUD operations on Users using POSTMAN
 3. Perform CRUD operations of the TWEETS using POSTMAN
 4. Overview of Implimentation of HBS after the app has been setup
 
-You can test your code by running `$ nodemon index.js` in the Terminal.
 
 ## LAB
 
